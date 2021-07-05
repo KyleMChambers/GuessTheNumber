@@ -1,0 +1,2 @@
+# GuessTheNumber
+simple JS game
